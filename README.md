@@ -2,22 +2,29 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JinSung's%20Githubr&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Convergence%20&%20E-Commerce%20Specialist%20!&descAlignY=51&descAlign=62"/>
 </p>
 <br>
-# PM + AI 개발
-안녕하세요. 박진성입니다. <br>
-이커머스 기업에서 검색과 프론트 도메인의 기획 및 PM을 주로 담당하였으며, 인하우스 키워드광고 플랫폼의 PM 경력이 있습니다.<br>
+
+# 🕴️AI Product Manager  
+안녕하세요. AI 하이브리드 인재 박진성입니다. <br>
+이커머스 기업에서 검색과 프론트 도메인의 기획 및 PM을 담당하며, 인하우스 키워드광고 플랫폼 런칭, 검색 페이지 UI/UX 개편, 검색 통계 시스템 구축 등의 프로젝트를 관리하였습니다.<br>
 최근 AI의 급부상으로 최적의 AI 광고, 추천, 검색 등을 기획할 수 있는 방법을 찾다가, 직접 AI 개발에 뛰어들었습니다.<br>
-AI 컨설팅 기업 EJ와 한국능률협회에서 설계한 **[AI+X 융복합인재 양성 과정]을 통해 830시간의 개발 교육을 수료**하여 AI 기획+개발 역량을 발전시켰습니다.<br> 본 Github는 AI 기획+개발 관련 내용을 업로드하였습니다.
+AI 컨설팅 기업 EJ와 한국능률협회에서 설계한 **[AI+X 융복합인재 양성 과정]을 통해 830시간의 개발 교육을 수료**하여 AI 기획+개발 역량을 발전시켰습니다.<br> 
+본 Github는 AI 기획+개발 교육과 프로젝트 내용을 업로드하였습니다.
 <br>
+
 ---
+
 <br>
-# 📚 LINK
+
+## 📚 LINK
 ### 공부일지 <a href="https://github.com/jsa3338/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 ### 1st TEAM PROJECT <a href="https://github.com/tangerineTaste/JikFarm"><img src="https://img.shields.io/badge/PROJ[직팜AI프로젝트]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
 ### 2ed TEAM PROJECT <a href="https://github.com/cwal8202/Chill_Tuna"><img src="https://img.shields.io/badge/TEAMPRO[동원X카이스트 AI챌린지]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
 <br>
+
 ---
 <br>
-### 🛠️ 기술 스택 (Tech Stack)
+
+## 🛠️ 기술 스택 (Tech Stack)
 
 | Category | Skills |
 | :---: | --- |
@@ -30,4 +37,14 @@ AI 컨설팅 기업 EJ와 한국능률협회에서 설계한 **[AI+X 융복합�
 
 <br>
 
+
+## 🧰 경력 사항 (Career)
+### 주식회사 티몬 | 2019.08 ~ 2024.07 | 검색운영팀 | 차장/팀장 | PO(Product Owner) |
+### 주식회사 위메프 | 2016.08 ~ 2018.03 | 운영관리팀 | 대리/파트장 | CM(Category Manager) |
+### 주식회사 쿠팡 | 2013.02 ~ 2016.06 | 유아동패션팀 | 대리 | 영업MD |
+<br>
+
+## 📖 학력 사항 (Education)
+### 고려대학교 경영정보학과 졸업 | 2006.03 ~ 2013.08 | 
+### 서울 마포고등학교 졸업 | 2003.03 ~ 2006.02 |
 
