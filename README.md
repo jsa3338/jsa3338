@@ -1,22 +1,22 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JinSung's%20Githubr&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Convergence%20&%20E-Commerce%20Specialist%20!&descAlignY=51&descAlign=62"/>
 </p>
-
+<br>
 # PM + AI 개발
 안녕하세요. 박진성입니다. <br>
 이커머스 기업에서 검색과 프론트 도메인의 기획 및 PM을 주로 담당하였으며, 인하우스 키워드광고 플랫폼의 PM 경력이 있습니다.<br>
 최근 AI의 급부상으로 최적의 AI 광고, 추천, 검색 등을 기획할 수 있는 방법을 찾다가, 직접 AI 개발에 뛰어들었습니다.<br>
 AI 컨설팅 기업 EJ와 한국능률협회에서 설계한 **[AI+X 융복합인재 양성 과정]을 통해 830시간의 개발 교육을 수료**하여 AI 기획+개발 역량을 발전시켰습니다.<br> 본 Github는 AI 기획+개발 관련 내용을 업로드하였습니다.
-
+<br>
 ---
-
+<br>
 # 📚 LINK
 ### 공부일지 <a href="https://github.com/jsa3338/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
 ### 1st TEAM PROJECT <a href="https://github.com/tangerineTaste/JikFarm"><img src="https://img.shields.io/badge/PROJ[직팜AI프로젝트]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
 ### 2ed TEAM PROJECT <a href="https://github.com/cwal8202/Chill_Tuna"><img src="https://img.shields.io/badge/TEAMPRO[동원X카이스트 AI챌린지]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
-
+<br>
 ---
-
+<br>
 ### 🛠️ 기술 스택 (Tech Stack)
 
 | Category | Skills |
@@ -29,11 +29,5 @@ AI 컨설팅 기업 EJ와 한국능률협회에서 설계한 **[AI+X 융복합�
 | **Version Control** | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> |
 
 <br>
-
- ### git
- <div>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
- </div>
 
 
