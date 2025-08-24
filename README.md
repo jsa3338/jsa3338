@@ -1,15 +1,15 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JinSung's%20Githubr&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Convergence%20&%20E-Commerce%20Specialist%20!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JinSung's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Convergence%20and%20E-Commerce%20Specialist&descAlignY=51&descAlign=72"/>
 </p>
 <br>
 
 # 🕴️AI + Business Hybrid Specialist : Park Jin Sung  
-안녕하세요. AI + 비즈니스 하이브리드 전문가 박진성입니다. <br>
-저는 이커머스 기업에서 **영업MD로 시작해, 영업관리/기획, 온사이트 마케팅, 메타플랫폼 마케팅을 거쳐 검색 프로덕트를 총괄하는 팀장이자 PO로 성장**하였습니다.<br> 
-검색 PO로서는 키워드광고 플랫폼 런칭, 검색 페이지 UI/UX 개편, 검색 통계 시스템 구축 등의 프로젝트를 총괄하기도 하였습니다.<br>
+안녕하세요. AI + 비즈니스 하이브리드 인재 박진성입니다. <br>
+저는 이커머스 기업에서 **영업MD로 시작해, 영업관리/기획, 온사이트 마케팅, 메타플랫폼 마케팅을 거쳐 <br> 검색 프로덕트를 총괄하는 팀장이자 PO**로 커리어를 쌓았습니다.<br> 
+검색 PO로서 키워드광고 플랫폼 런칭, 검색 페이지 UI/UX 개편, 검색 통계 시스템 구축 등의 프로젝트를 총괄하기도 하였습니다.<br>
 최근 AI의 급부상으로 최적의 AI 광고, 추천, 검색 등을 기획할 수 있는 방법을 찾다가, 직접 AI 개발에 뛰어들게 되었습니다.<br>
-AI 컨설팅 기업 EJ와 한국능률협회에서 설계한 **[AI+X 융복합인재 양성 과정]을 통해 830시간의 개발 교육을 수료**하여 AI 기획+개발 역량을 발전시켰습니다.<br> 
-본 Github는 AI 기획+개발 교육과 프로젝트 내용을 업로드하였습니다.
+AI 컨설팅 기업 EJ와 한국능률협회에서 설계한 **[AI+X 융복합인재 양성 과정]을 통해 830시간의 개발 교육을 수료**하여 <br> **AI 기획+개발 역량**을 만들어왔습니다.<br> 
+본 Github는 AI 기획+개발 교육과 프로젝트 내용을 위주로 포트폴리오 업로드하였습니다.
 <br>
 
 ---
