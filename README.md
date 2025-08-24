@@ -1,44 +1,34 @@
-# LINK
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JinSung's%20Githubr&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Convergence%20&%20E-Commerce%20Specialist%20!&descAlignY=51&descAlign=62"/>
+</p>
+
+# PM + AI 개발
+안녕하세요. 박진성입니다. <br>
+이커머스 기업에서 검색과 프론트 도메인의 기획 및 PM을 주로 담당하였으며, 인하우스 키워드광고 플랫폼의 PM 경력이 있습니다.<br>
+최근 AI의 급부상으로 최적의 AI 광고, 추천, 검색 등을 기획할 수 있는 방법을 찾다가, 직접 AI 개발에 뛰어들었습니다.<br>
+AI 컨설팅 기업 EJ와 한국능률협회에서 설계한 **[AI+X 융복합인재 양성 과정]을 통해 830시간의 개발 교육을 수료**하여 AI 기획+개발 역량을 발전시켰습니다.<br> 본 Github는 AI 기획+개발 관련 내용을 업로드하였습니다.
+
+---
+
+# 📚 LINK
 ### 공부일지 <a href="https://github.com/jsa3338/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 1st PERSONAL PROJECT <a href="https://github.com/tangerineTaste/JikFarm"><img src="https://img.shields.io/badge/PROJ[직팜AI프로젝트]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 2ed TEAM PROJECT <a href="https://github.com/jsa3338/2ndProject"><img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
+### 1st TEAM PROJECT <a href="https://github.com/tangerineTaste/JikFarm"><img src="https://img.shields.io/badge/PROJ[직팜AI프로젝트]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
+### 2ed TEAM PROJECT <a href="https://github.com/cwal8202/Chill_Tuna"><img src="https://img.shields.io/badge/TEAMPRO[동원X카이스트 AI챌린지]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
 
+---
 
- # 📚 SKIL
- ### Programming
-<div>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/tensorflow-55ff55?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/sklearn-55ff55?style=for-the-badge&logo=fastapi&logoColor=white">
-</div>
+### 🛠️ 기술 스택 (Tech Stack)
 
- ### DBMS 
-<div>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlite-447900?style=for-the-badge&logo=sqlite&logoColor=white">
-</div>
+| Category | Skills |
+| :---: | --- |
+| **Programming** | <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> |
+| **AI** | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=black"> <img src="https://img.shields.io/badge/Ollama-2396F3?style=for-the-badge&logo=Ollama&logoColor=white"> |
+| **DBMS** | <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> |
+| **Frontend** | <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> |
+| **Backend** | <img src="https://img.shields.io/badge/JSP-24292E?style=for-the-badge&logo=EclipseIDE&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> |
+| **Version Control** | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> |
 
- ### WEB
- <div>
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</div>
-
- ### WEB programming
-<div> 
-  <img src="https://img.shields.io/badge/JSP-db46ca?style=for-the-badge&logo=eclipse&logoColor=white">
-</div>
-
- ### WEB Framework
-<div>
-  <img src="https://img.shields.io/badge/fastapi-FF0000?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/django-FCC624?style=for-the-badge&logo=django&logoColor=black"> 
-</div>
+<br>
 
  ### git
  <div>
