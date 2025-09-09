@@ -21,6 +21,7 @@ AI 컨설팅 기업 EJ와 한국능률협회에서 설계한 **[AI+X 융복합�
 ### 1st TEAM PROJECT : 직팜AI 농산물 가격 예측 <a href="https://github.com/tangerineTaste/JikFarm"><img src="https://img.shields.io/badge/직팜AI-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
 - 프로젝트 웹페이지 : https://jikfarm.pythonanywhere.com/
 ### 2ed TEAM PROJECT : 동원X카이스트 AI챌린지  <a href="https://github.com/cwal8202/Chill_Tuna"><img src="https://img.shields.io/badge/AI챌린지-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
+- 프로젝트 웹페이지 : https://chilltuna.pythonanywhere.com/
 <br>
 
 ---
